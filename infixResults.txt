@@ -1,0 +1,9 @@
+The postfix expression of 23*4+(19-2) is:
+23 4 * 19 2 - +  which evaluates to 109
+
+The postfix expression of 6-3 is:
+6 3 -  which evaluates to 3
+
+The postfix expression of 36 is:
+36  which evaluates to 36
+
